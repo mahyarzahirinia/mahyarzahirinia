@@ -6,7 +6,7 @@
 
 ###
 
-<video src="https://i.imgflip.com/9h7zvb.mp4" width="250" autoplay loop muted></video>
+<img src="//s3.ezgif.com/tmp/ezgif-3-db0efaeb34.gif" style="width:360px;height:640px!important" alt="url_upload_678d238144111.mp4 [video-to-gif output image]">
 
 ###
 
