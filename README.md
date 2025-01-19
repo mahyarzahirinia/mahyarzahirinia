@@ -1,5 +1,9 @@
 <h2 align="left">Hola Amigos👋 , It's Mohammad Zahiri 😊, I'm a software developer specializing in Reactjs. with a strong focus on building scaleable, first-mobile and UI-friendly web apps 🚀 , I thrive on getting my hands dirty in solving challenging problems.<br>some of the core skills I bear on my shoulders are:<br><br>⚛️ React.js | Next.js<br>💻 JavaScript | TypeScript<br>🎨 Tailwind CSS | Material-UI<br>🗂️ Zustand | Redux<br>📅 Agile & Scrum Methodologies<br>and a ton more ...<br><br>I also happen to know other languages as well, so feel free to invite me to collaboration projects related to such.</h2>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzahirinia&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzahirinia&layout=compact&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mzahirinia&theme=darkhub)
+
 ###
 
 <img align="right" height="150" src="https://imgflip.com/gif/9h7zvb"  />
